@@ -21,9 +21,9 @@ I am a passionate Web Developer and a budding Data Scientist. I am pursuing my B
 
 <p align="center">
 <img 
-     src='./' 
+     src='./profilebg.jpeg' 
      alt='💻'
-     width='50%'
+     width='100%'
      style='margin: 0 auto'
 />
 </p>

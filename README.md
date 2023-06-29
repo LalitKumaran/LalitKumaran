@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently doing my Bachelor's in Computer Science in Kongu Engineering College
-🌱 I’m currently learning VueJs
+- 🔭 I’m currently doing my Bachelor's in Computer Science in Kongu Engineering College
+- 🌱 I’m currently learning VueJs
 
 <!--
 **LalitKumaran/LalitKumaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

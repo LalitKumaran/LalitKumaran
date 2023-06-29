@@ -38,8 +38,8 @@ I am a passionate web developer and a budding Data scientist. I am pursuing my B
 
 ## 💻 My Tech Stack<br>
 
-Languages: Python, Java, C, HTML, CSS, SQL
-Frameworks & Libraries: Flask, ReactJS, NodeJS, VueJS, jQuery, Bootstrap, Axios, SQLAlchemy 
+* Languages: Python, Java, C, HTML, CSS, SQL
+* Frameworks & Libraries: Flask, ReactJS, NodeJS, VueJS, jQuery, Bootstrap, Axios, SQLAlchemy 
 Tools:  MongoDB, MySQL, Sqlite3, Git, GitHub, Command Line, VSCode, Jupyter 
 
 

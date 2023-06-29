@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing my Bachelor's in Computer Science in Kongu Engineering College
+- 🔭 I’m currently doing my Bachelor's in Computer Science at Kongu Engineering College
 - 🌱 I’m currently learning VueJs
 
 <!--
